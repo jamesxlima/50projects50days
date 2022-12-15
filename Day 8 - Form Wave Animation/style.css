@@ -74,7 +74,8 @@ body {
   color: #fff;
 }
 
-.form-control input:focus, .form-control input:valid {
+.form-control input:focus, 
+.form-control input:valid {
   outline: 0;
   border-bottom: #9cfcf8;
 }
