@@ -1,16 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
 * {
   box-sizing: border-box;
 }
 
 body {
   background-color: #a8a8a8;
-  background-image: linear-gradient(to bottom,#fff, #4e4e4e);
-  background-image: linear-gradient(to top,rgb(9, 3, 68), rgb(72, 57, 211));
-  background-image: linear-gradient(to bottom,rgb(255, 209, 215), #61000d);
-  font-family: 'Roboto', sans-serif;
-  display: flex;
+  background-image: linear-gradient(to bottom, rgb(255, 209, 215), #61000d);
   flex-direction: column;
   align-items: center;
   justify-content: center;
