@@ -70,6 +70,10 @@ h1 {
   letter-spacing: 1px;
 }
 
+.type span {
+  text-transform: capitalize;
+}
+
 footer {
   margin: 15px 0;
 }
